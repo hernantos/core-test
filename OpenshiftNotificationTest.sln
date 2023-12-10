@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenshiftNotificationTest", "OpenshiftNotificationTest.csproj", "{DDDA0DF9-68BB-4F74-B0B2-632BDD010392}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{6EBF9842-7DAF-43A1-8EE5-479CFDC72943}"
-	ProjectSection(SolutionItems) = preProject
-		swagger-app.yaml = swagger-app.yaml
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
